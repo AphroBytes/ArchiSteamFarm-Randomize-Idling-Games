@@ -1,0 +1,38 @@
+{
+  "AcceptGifts": false,
+  "AutoSteamSaleEvent": true,
+  "BotBehaviour": 0,
+  "CustomGamePlayedWhileFarming": null,
+  "CustomGamePlayedWhileIdle": null,
+  "Enabled": true,
+  "FarmingOrders": [],
+  "GamesPlayedWhileIdle": [
+    730, 10, 271590, 107410, 41070, 6840, 6830, 6800, 231430, 225540,
+    519190, 391220, 750920, 242760, 377160, 550, 570, 440, 24960,
+    39160, 306130, 221100, 292030,
+    552520, 863550, 323190, 582660, 883710, 359550, 447040, 433850, 460930
+  ],
+  "HoursUntilCardDrops": 3,
+  "IdlePriorityQueueOnly": false,
+  "IdleRefundableGames": true,
+  "LootableTypes": [1, 2, 3, 4, 5, 10, 11],
+  "MatchableTypes": [5],
+  "OnlineStatus": 1,
+  "PasswordFormat": 0,
+  "Paused": false,
+  "RedeemingPreferences": 0,
+  "SendOnFarmingFinished": false,
+  "SendTradePeriod": 0,
+  "ShutdownOnFarmingFinished": false,
+  "SteamLogin": "-----",
+  "SteamMasterClanID": 0,
+  "SteamParentalCode": null,
+  "SteamPassword": "-----",
+  "SteamTradeToken": null,
+  "SteamUserPermissions": {
+    "76561197961402290": 3
+  },
+  "TradingPreferences": 0,
+  "TransferableTypes": [1, 3, 5],
+  "UseLoginKeys": true
+}

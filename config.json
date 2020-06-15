@@ -1,0 +1,8 @@
+{
+  "ASFPath": "",
+  "refreshTime": 10,
+  "configFile": "config/test.json",
+  "ownedGames": "config/ownedGames.json",
+  "steamKey": "...",
+  "steamIds": "..."
+}
